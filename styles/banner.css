@@ -3,3 +3,9 @@
     color: var(--branco)
     text-aling: center;
 }
+
+>banner__titulo {
+    font-size: 18px;
+    font-weight: 700;
+
+}
